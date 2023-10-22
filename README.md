@@ -3,7 +3,7 @@ This project is an excersie for Module 4 PacMan moving across the screen and rev
 ![pacman, image screenshot](screenshot.png)
 
 ## Installation
-Download the project and use run it using browser.
+Download the project and run it using browser.
 
 ## Support
 github : thisisraghad
