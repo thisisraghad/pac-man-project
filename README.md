@@ -1,7 +1,7 @@
 # Pac Man Project
 
 ## Description
-This project is an excersie for This project is part of MIT Professional Certificate in Coding: Full Stack Development with MERN - week 7,it is a PacMan moving across the screen and reversing direction when it reach the window edge.
+This project is part of MIT Professional Certificate in Coding: Full Stack Development with MERN - week 7, it is a PacMan moving across the screen and reversing direction when it reach the window edge.
 it builds using Javascript, HTML, and CSS.
 ![pacman, image screenshot](screenshot.png)
 
